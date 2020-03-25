@@ -1,1 +1,1 @@
-<a href="https://michellevdb.github.io/dotColorLoading/">
+https://michellevdb.github.io/dotColorLoading/
